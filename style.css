@@ -3,7 +3,7 @@
     --color-secondary: #e5f2fd;
     --color-tertiary: #093f65;
     --color-button: #22D4FD;
-    --color-button-hover: #4528c9;
+    --color-button-hover:#22D4FD;
     --color-text: #f9f9fa;
     --color-white: #FFFFFF;
 }
@@ -21,7 +21,7 @@ body {
     display: flex;
     justify-content:center;
     align-items: center;
-    background-image: url("amigo_fundo.webp");
+    background-image: url("amigo secreto papai noel.webp");
     background-repeat: no-repeat;
     background-size: cover;
     
@@ -35,7 +35,7 @@ body {
 }
 .imagem{
     position: relative;
-    left: 80px;
+    left: 280px;
     height:300px;
     width:auto;
 }
@@ -68,7 +68,7 @@ body {
     font-family: "Merriweather", serif;
     font-weight: 900;
     font-style: italic;
-    color: var(--color-white);
+    color: var(--color-yellow);
 }
 
 .section-title {

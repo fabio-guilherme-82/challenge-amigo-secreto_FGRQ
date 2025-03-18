@@ -25,8 +25,8 @@ O foco principal foi a implementação da lógica em JavaScript , utilizando HTM
 https://github.com/user-attachments/assets/e438f44e-dd7f-40f0-9f05-4a7458e356ec
 
 - `Voce pode estar acessando o projeto na web atraves do link:`
-  https://one-alura-amigo-secreto.vercel.app/
-
+  https://one-alura-amigo-secreto-fgrq.vercel.app/
+  
   # :bulb: Contribuições são sempre bem-vindas!
   - `Por se tratar do Meu primeiro projeto, ainda incipiente todo o desenvolvimento e qualquer observação ou melhoria será sempre bem vinda.`
  

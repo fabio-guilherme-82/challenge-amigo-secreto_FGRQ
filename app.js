@@ -5,7 +5,7 @@ let resultado = document.getElementById("resultado");
 function adicionarAmigo(){
     let digiteUmNome = document.getElementById ("amigo").value;
     if (digiteUmNome == ""){
-        alert ("Erro! O campo está vazio. Digite os nomes de seus amigos para começar-mos.")
+        alert ("Erro! O campo está vazio. Digite os nomes de seus amigos para começar-nos.")
         return
     } 
 
