@@ -1,6 +1,6 @@
 <h1 align=center>Jogo do Amigo Secreto</h1>
 
-![Capa do jogo] [https://github.com/fabio-guilherme-82/challenge-amigo-secreto_FGRQ/commit/c430797212e20748ed63bf8e921e1d560984119f]
+![Capa do jogo] (https://github.com/fabio-guilherme-82/challenge-amigo-secreto_FGRQ/commit/c430797212e20748ed63bf8e921e1d560984119f)
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
 - `Um aplicativo simples para classificar um amigo secreto a partir de uma lista de nomes inseridos pelo usuário`
